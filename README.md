@@ -152,8 +152,4 @@ I love building scalable, open-source-powered systems and occasionally automatin
 
 ---
 
-<div align="center">
-  <img src="https://github.com/CharanKairoju/CharanKairoju/blob/output/github-contribution-grid-snake.svg" alt="charankairoju's electric contribution snake"/>
-</div>
-
 <!-- Electric dark vibes forever! -->
