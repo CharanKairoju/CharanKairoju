@@ -119,7 +119,7 @@ I love building scalable, open-source-powered systems and occasionally automatin
 - Data Viz (Python, Matplotlib, Plotly)
 - Cybersecurity (Cisco), Prompt Engineering (Google Cloud)
 - ...and more!  
-  _See my [LinkedIn](https://www.linkedin.com/in/charankairoju/) for the full badge collection 🏅_
+  _See my [LinkedIn](https://www.linkedin.com/in/charankairoju) for the full badge collection 🏅_
 
 ---
 
