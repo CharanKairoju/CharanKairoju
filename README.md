@@ -109,7 +109,7 @@ I love building scalable, open-source-powered systems and occasionally automatin
 
 ### 🛠️ Projects I’ve Zapped
 
-🤖 AI / ML
+-🤖 AI / ML
 
 🧑‍🤝‍🧑 AI-based-Face-Deduplication
 💬 Communication-Hub
@@ -118,11 +118,11 @@ I love building scalable, open-source-powered systems and occasionally automatin
 📶 IoT_Anomaly_Detection
 🚓 Crime_Prediction
 
-🛡️ Cybersecurity
+-🛡️ Cybersecurity
 
 🛡️ Cybersecurity_Intership
 
-⚙️ DevOps / Cloud
+-⚙️ DevOps / Cloud
 
 ☸️ k8s-microservices
 📡 ai-metadata-beacon
@@ -130,16 +130,16 @@ I love building scalable, open-source-powered systems and occasionally automatin
 🛠️ devops-tech-stack
 🐳 mern-docker-app
 
-🔄 Automation / Workflows
+-🔄 Automation / Workflows
 
 🔄 n8n-workflows
 🚀 Stage-wise-Funnel-View
 
-🖥️ System / Infra
+-🖥️ System / Infra
 
 🖥️ mcp-server
 
-🪙 Blockchain / Web3
+-🪙 Blockchain / Web3
 
 🪙 erc20-faucet
 ---
