@@ -18,7 +18,7 @@
 > _“Powered by curiosity, caffeine, and cloud credits.”_
 
 **Hey there!**  
-I’m **Charan Kairoju** (He/Him) — a Data Science student at Anurag University on a mission to connect the dots between **DevOps, IoT, Cloud, and Web3**, one electric idea at a time.
+I’m **Charan Kairoju**  — a Data Science student at Anurag University on a mission to connect the dots between **DevOps, IoT, Cloud, and Web3**, one electric idea at a time.
 
 I love building scalable, open-source-powered systems and occasionally automating my coffee breaks. Always ready for a new challenge, a hackathon, or a meme war.
 
