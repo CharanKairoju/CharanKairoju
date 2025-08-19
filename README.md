@@ -109,10 +109,39 @@ I love building scalable, open-source-powered systems and occasionally automatin
 
 ### 🛠️ Projects I’ve Zapped
 
-- 🚜 IoT-driven Agri-Tech tools for smart farming
-- 🕵️ Crime Prediction & Prevention System
-- 🪙 ERC-20 Token & Faucet DApp (testnet billionaire, real-world ramen eater)
+🤖 AI / ML
 
+🧑‍🤝‍🧑 AI-based-Face-Deduplication
+💬 Communication-Hub
+✋ gesture-mouse-control-ai
+🎯 psu-prep-mentor-ai
+📶 IoT_Anomaly_Detection
+🚓 Crime_Prediction
+
+🛡️ Cybersecurity
+
+🛡️ Cybersecurity_Intership
+
+⚙️ DevOps / Cloud
+
+☸️ k8s-microservices
+📡 ai-metadata-beacon
+⚙️ devops-architecture
+🛠️ devops-tech-stack
+🐳 mern-docker-app
+
+🔄 Automation / Workflows
+
+🔄 n8n-workflows
+🚀 Stage-wise-Funnel-View
+
+🖥️ System / Infra
+
+🖥️ mcp-server
+
+🪙 Blockchain / Web3
+
+🪙 erc20-faucet
 ---
 
 ### 🏆 Certifications & Badges
