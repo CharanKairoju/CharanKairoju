@@ -27,11 +27,15 @@ I love building scalable, open-source-powered systems and occasionally automatin
 ### 🛣️ My Journey So Far
 
 - **Current Roles**
-  - 🚀 DevOps Intern @ Vaidsys Technologies (2025–Present)
-  - 🤖 AI Developer Intern @ VISWAM.AI (2025–Present)
-  - 💡 Crowd Funding Intern @ Muskurahat Foundation (2025–Present)
+  - 🤖 Kodryx AI — AI Engineer Intern — Aug 2025 – Present
 
 - **Previous Roles**
+  - 🚀 Revino — Software Development Intern — Jul 2025 – Aug 2025
+  - 💻 Redynox — Cybersecurity Intern — Jun 2025 – Jul 2025 
+  - 🤖 VISWAM.AI — AI Developer Intern — May 2025 – Jun 2025
+  - 🚀 DevOps Intern @ Vaidsys Technologies - May 2025 – Jun 2025
+  - 🤖 AI Developer Intern @ VISWAM.AI - May 2025 – Jun 2025
+  - 💡 Crowd Funding Intern @ Muskurahat Foundation (2025)
   - 🌾 Agri-Tech Developer @ Swecha Telangana (2023)
   - 💻 Hackathon Volunteer @ Anurag University (2024)
 
