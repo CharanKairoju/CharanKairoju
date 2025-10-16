@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/DevOps-⚡️ElectricOps-blueviolet?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-%F0%9F%9A%80%20Cloud%20Connected-brightgreen?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3-%F0%9F%A7%A1%20Blockchained-9cf?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%A4%96%20Data%20Wizard-orange?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-%F0%9F%A4%96%20IntelligentOps-red?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%93%88%20Data%20Wizard-orange?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
