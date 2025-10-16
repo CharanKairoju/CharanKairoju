@@ -9,12 +9,12 @@ on:
 
 jobs:
   generate:
-   permissions:
-      contents: write
-   runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions: # <-- CORRECTED INDENTATION: 4 spaces from 'jobs:'
+      contents: write # <-- CORRECTED INDENTATION: 2 spaces from 'permissions:'
+    runs-on: ubuntu-latest # <-- CORRECTED INDENTATION: Aligns with 'permissions:'
+    timeout-minutes: 10 # <-- CORRECTED INDENTATION: Aligns with 'permissions:'
 
-    steps:
+    steps: # <-- CORRECTED INDENTATION: Aligns with 'permissions:'
       # Step 1: Generate the SVG snake animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -22,14 +22,14 @@ jobs:
           github_user_name: CharanKairoju # *** YOUR USERNAME HERE ***
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+        # The 'env' key for Platane/snk should be REMOVED as it's not needed 
+        # for public profile READMEs and can cause issues if empty or misconfigured.
+
       # Step 2: Push the generated file to the 'output' branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-        env:
+        env: # <-- THIS 'env' BLOCK IS CORRECTLY INDENTED
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
