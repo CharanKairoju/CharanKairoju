@@ -104,7 +104,8 @@ I bring a balanced mix of technical and professional abilities:
 ## 😂 Fun Facts & Techy Quirks
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg alt="Developer GIF" width="300" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="400">
+<br><br>
 </p>
 
 * If (sleep < 6h) \{ coffee++; \} ☕ **(Powered by caffeine!)**
