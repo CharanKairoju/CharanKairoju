@@ -75,8 +75,18 @@ REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deploym
 
 ### 🗓️ My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharanKairoju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Charan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKairoju&layout=compact&theme=dark&hide=html" alt="Charan's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CharanKairoju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+         alt="Charan's GitHub Stats" 
+         style="margin-bottom: 10px;" 
+         />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKairoju&layout=compact&theme=dark&hide=html" 
+         alt="Charan's Top Languages" 
+         style="margin-bottom: 10px;" 
+         />
+    <br> 
+    <img src="https://raw.githubusercontent.com/CharanKairoju/CharanKairoju/output/github-contribution-grid-snake-dark.svg" 
+         alt="Snake animation Contribution Graph" 
+         />
 </p>
 
 ---
