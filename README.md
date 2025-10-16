@@ -1,7 +1,5 @@
-<!-- Profile README for Charan Kairoju -->
-
 <h1 align="center">
-  Charan Kairoju 
+  Hi there! I'm Charan Kairoju
   <img src="https://img.shields.io/badge/verified-true-blue?style=flat-square&logo=github&label=He/Him" alt="Verification Badge" height="28"/>
 </h1>
 
@@ -14,149 +12,106 @@
 
 ---
 
-🌑 **About Me**  
-> _“Powered by curiosity, caffeine, and cloud credits.”_
-
-**Hey there!**  
-I’m **Charan Kairoju**  — a Data Science student at Anurag University on a mission to connect the dots between **DevOps, IoT, Cloud, and Web3**, one electric idea at a time.
-
-I love building scalable, open-source-powered systems and occasionally automating my coffee breaks. Always ready for a new challenge, a hackathon, or a meme war.
-
----
-
-### 🛣️ My Journey So Far
-
-- **Current Roles**
-  - 🤖 Kodryx AI — AI Engineer Intern — Aug 2025 – Present
-
-- **Previous Roles**
-  - 🚀 Revino — Software Development Intern — Jul 2025 – Aug 2025
-  - 💻 Redynox — Cybersecurity Intern — Jun 2025 – Jul 2025 
-  - 🤖 VISWAM.AI — AI Developer Intern — May 2025 – Jun 2025
-  - 🚀 DevOps Intern @ Vaidsys Technologies - May 2025 – Jun 2025
-  - 🤖 AI Developer Intern @ VISWAM.AI - May 2025 – Jun 2025
-  - 💡 Crowd Funding Intern @ Muskurahat Foundation (2025)
-  - 🌾 Agri-Tech Developer @ Swecha Telangana (2023)
-  - 💻 Hackathon Volunteer @ Anurag University (2024)
-
----
-
-### 🧰 My Tech Toolbox
-
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00F7EF&background=00203A&center=true&vCenter=true&width=600&lines=Clouds%2C+Code%2C+Coffee%2C+and+Curiosity.;Open+to+Collabs+and+Internships!;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80"/>
 </p>
 
-- **Infra/DevOps:** AWS, Docker, Git, CI/CD, IaC  
-- **IoT:** Raspberry Pi, Arduino, MQTT, Real-Time Dashboards  
-- **Web3:** Solidity, Ethereum, Smart Contracts, Web3.js  
-- **Data:** Python, Matplotlib, Plotly, Pandas, SQL  
-- **Other Skills:** Cloud Security, Data Analysis, Design Thinking, Cybersecurity
+---
+
+## 🚀 About Me & My Journey
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8APbYc2j21p3cQj/giphy.gif" alt="Coding GIF" width="500"/>
+</p>
+
+> _“Powered by curiosity, caffeine, and cloud credits.”_
+
+I’m **Charan Kairoju** — a Data Science student at Anurag University on a mission to connect the dots between **DevOps, IoT, Cloud, and Web3**, one electric idea at a time. I love building scalable, open-source-powered systems and occasionally automating my coffee breaks.
+
+### 💼 Career Snapshot
+
+- **Current Role:** 🤖 **AI Engineer Intern** @ Kodryx AI (Aug 2025 – Present)
+- **Key Experience:**
+  - 🚀 Software Development Intern @ Revino (Jul 2025 – Aug 2025)
+  - 💻 Cybersecurity Intern @ Redynox (Jun 2025 – Jul 2025)
+  - ⚙️ DevOps Intern @ Vaidsys Technologies (May 2025 – Jun 2025)
+  - 💡 Agri-Tech Developer @ Swecha Telangana (2023)
 
 ---
 
-### 🛠️ Projects I’ve Zapped
+## 🧰 My Tech Toolbox (Visualized)
 
-  -  🤖 AI / ML
+I've transformed your comprehensive skill list into categorized icon rows for high visual appeal.
 
-🧑‍🤝‍🧑 AI-based-Face-Deduplication
-💬 Communication-Hub
-✋ gesture-mouse-control-ai
-🎯 psu-prep-mentor-ai
-📶 IoT_Anomaly_Detection
-🚓 Crime_Prediction
+### 💻 Languages & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,r,solidity,react,html,css" alt="Languages and Frontend" />
+</p>
 
-  -  🛡️ Cybersecurity
+### ☁️ DevOps & Cloud Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,gcp,git,bash" alt="DevOps and Cloud" />
+</p>
 
-🛡️ Cybersecurity_Intership
+### 🧠 Data, AI & Niche Tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,mqtt,postgres" alt="Data and AI" />
+  <br/>
+  <img src="https://img.shields.io/badge/Conversational_AI-blueviolet" alt="Conversational AI Badge" />
+  <img src="https://img.shields.io/badge/LangGraph-205A93" alt="LangGraph Badge" />
+  <img src="https://img.shields.io/badge/Unified_API-5cb85c" alt="Unified API Badge" />
+</p>
 
-  -  ⚙️ DevOps / Cloud
-
-☸️ k8s-microservices
-📡 ai-metadata-beacon
-⚙️ devops-architecture
-🛠️ devops-tech-stack
-🐳 mern-docker-app
-
-  -  🔄 Automation / Workflows
-
-🔄 n8n-workflows
-🚀 Stage-wise-Funnel-View
-
-  -  🖥️ System / Infra
-
-🖥️ mcp-server
-
-  -  🪙 Blockchain / Web3
-
-🪙 erc20-faucet
----
-
-### 🏆 Certifications & Badges
-
-- AWS Cloud Practitioner, DevOps Tools, and Solutions Architect Simulations
-- NVIDIA Jetson Nano AI
-- Blockchain Basics (University at Buffalo)
-- Data Viz (Python, Matplotlib, Plotly)
-- Cybersecurity (Cisco), Prompt Engineering (Google Cloud)
-- ...and more!  
-  _See my [LinkedIn](https://www.linkedin.com/in/charankairoju) for the full badge collection 🏅_
+### ⚙️ Automation & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,sqlite,n8n" alt="Automation and Databases" />
+</p>
 
 ---
 
-### 🤝 Let’s Connect!
+## 📈 GitHub Activity & Stats
+
+These dynamic cards automatically pull and display your activity and most-used languages, serving as ongoing proof of work.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharanKairoju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Charan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKairoju&layout=compact&theme=dark&hide=html" alt="Charan's Top Languages" />
+</p>
+
+---
+
+## 🛠️ Key Projects (Highlights)
+
+This section remains strong, listing your most impactful projects grouped by domain.
+
+- **🤖 AI / ML:** `AI-based-Face-Deduplication`, `gesture-mouse-control-ai`, `IoT_Anomaly_Detection`, `Crime_Prediction`
+- **⚙️ DevOps / Cloud:** `k8s-microservices`, `devops-architecture`, `mern-docker-app`
+- **🪙 Blockchain / Web3:** `erc20-faucet`
+- **🛡️ Cybersecurity:** `Cybersecurity_Intership`
+
+---
+
+## 🏅 Certifications & Soft Skills
+
+### 🏆 Certifications
+- **AWS** Cloud Practitioner, DevOps Tools, and Solutions Architect Simulations
+- **NVIDIA** Jetson Nano AI
+- **Blockchain** Basics (University at Buffalo)
+- **Data Viz** (Python, Matplotlib, Plotly)
+- **Cybersecurity** (Cisco), **Prompt Engineering** (Google Cloud)
+_See my [LinkedIn](https://www.linkedin.com/in/charankairoju) for the full badge collection 🏅_
+
+### 🤝 Soft Skills
+I bring a balanced mix of technical and professional abilities:
+- **Team Collaboration** 🧑‍💻
+- **Problem Solving** 💡
+- **Strategic Planning** 🗺️
+- **Communication** 📢
+- **Leadership** 👑
+
+---
+
+## 👋 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charankairoju/" target="_blank">
@@ -169,20 +124,12 @@ I love building scalable, open-source-powered systems and occasionally automatin
 
 ---
 
-### 😂 Fun Facts & Techy Quirks
+## 😂 Fun Facts & Techy Quirks
 
-- If (sleep < 6h) { coffee++; }
-- I speak fluent Python, with a strong accent in YAML.
-- Can deploy a cluster faster than I can find my lost USB stick.
-- Blockchain enthusiast, but my wallet is still mostly testnet.
-- Once tried to automate my coffee machine with IoT... now my kitchen beeps at 3am.
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00F7EF&background=00203A&center=true&vCenter=true&width=600&lines=Clouds%2C+Code%2C+Coffee%2C+and+Curiosity.;Open+to+Collabs+and+Internships!;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80"/>
-</p>
+* If (sleep < 6h) { coffee++; }
+* I speak fluent Python, with a strong accent in YAML.
+* Can deploy a cluster faster than I can find my lost USB stick.
+* Blockchain enthusiast, but my wallet is still mostly testnet.
+* Once tried to automate my coffee machine with IoT... now my kitchen beeps at 3am.
 
 ---
-
-<!-- Electric dark vibes forever! -->
