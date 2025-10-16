@@ -77,7 +77,6 @@ I've transformed your comprehensive skill list into categorized icon rows for hi
 These dynamic cards automatically pull and display your activity and most-used languages, serving as ongoing proof of work.
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=CharanKairoju&show_icons=true&theme=radical" width="45%" align="right" >
   <img src="https://github-readme-stats.vercel.app/api?username=CharanKairoju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Charan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKairoju&layout=compact&theme=dark&hide=html" alt="Charan's Top Languages" />
 </p>
