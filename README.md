@@ -128,11 +128,16 @@ I bring a balanced mix of technical and professional abilities:
 ---
 
 ## 😂 Fun Facts & Techy Quirks
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-1d0b3027b4d3.gif" alt="Developer GIF" width="300" /> </p>
 
-* If (sleep < 6h) { coffee++; }
-* I speak fluent Python, with a strong accent in YAML.
-* Can deploy a cluster faster than I can find my lost USB stick.
-* Blockchain enthusiast, but my wallet is still mostly testnet.
-* Once tried to automate my coffee machine with IoT... now my kitchen beeps at 3am.
+If (sleep < 6h) { coffee++; } ☕ (Powered by caffeine!)
+
+I speak fluent Python 🐍, with a strong accent in YAML.
+
+Can deploy a Kubernetes cluster faster than I can find my lost USB stick. 🚀
+
+Blockchain enthusiast ⛓️, but my wallet is still mostly testnet.
+
+Once tried to automate my coffee machine with IoT... now my kitchen beeps at 3am. 🤖 (Whoops!)
 
 ---
