@@ -63,7 +63,7 @@ I’m **Charan Kairoju** — a Data Science student at Anurag University on a mi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🔧 Others
-REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deployment
+REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deployment, N8N, Conversational AI, IVR Design, Unified API
 
 ---
 
