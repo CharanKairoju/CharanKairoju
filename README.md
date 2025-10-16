@@ -83,7 +83,7 @@ This section remains strong, listing your most impactful projects grouped by dom
 - **🤖 AI / ML:** `AI-based-Face-Deduplication`, `gesture-mouse-control-ai`, `IoT_Anomaly_Detection`, `Crime_Prediction`
 - **⚙️ DevOps / Cloud:** `k8s-microservices`, `devops-architecture`, `mern-docker-app`
 - **🪙 Blockchain / Web3:** `erc20-faucet`
-- **🛡️ Cybersecurity:** `Cybersecurity_Intership`
+- **🛡️ Cybersecurity:** `Network Vulnerability Assessment`, `Web Application Penetration Testing`
 
 ---
 
