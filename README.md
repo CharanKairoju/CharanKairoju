@@ -20,13 +20,16 @@
 
 ## 🚀 About Me & My Journey
 
+> _“Powered by curiosity, caffeine, and cloud credits.”_
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8APbYc2j21p3cQj/giphy.gif" alt="Coding GIF" width="500"/>
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="New GIF" width="500"/>
 </p>
 
-> _“Powered by curiosity, caffeine, and cloud credits.”_
-
 I’m **Charan Kairoju** — a Data Science student at Anurag University on a mission to connect the dots between **DevOps, IoT, Cloud, and Web3**, one electric idea at a time. I love building scalable, open-source-powered systems and occasionally automating my coffee breaks.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Programming Setup" width="500"/>
+</p>
 
 ### 💼 Career Snapshot
 
