@@ -125,4 +125,10 @@ I bring a balanced mix of technical and professional abilities:
   </a>
 </p>
 
+<div align="center">
+  
+  ### Show some ❤️ by starring ⭐ your favorite repositories!
+     
+</div>
+
 ---
