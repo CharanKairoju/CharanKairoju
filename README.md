@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Charan Kairoju — AI Engineer building production-grade Voice AI, RAG, Multi-Agent systems, and MLOps infrastructure.">
+  <img src="https://raw.githubusercontent.com/CharanKairoju/CharanKairoju/main/assets/hero.svg" width="100%" alt="Charan Kairoju — AI Engineer building production-grade Voice AI, RAG, Multi-Agent systems, and MLOps infrastructure.">
 </p>
 
 <p align="center">
