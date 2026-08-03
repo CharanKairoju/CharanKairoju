@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <code>Hyderabad, India</code> · <code>Open to relocation/remote</code> · <code>charankairoju@gmail.com</code> · <code>+91 63096 94747</code>
+  <code>Hyderabad, India</code> · <code>Open to relocation/remote</code> · <code>charankairoju@gmail.com</code> · 
 </p>
 
 ---
