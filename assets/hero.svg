@@ -141,7 +141,7 @@
 
     <!-- Title line -->
     <text x="0" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#e6edf3" letter-spacing="0.5">
-      AI Engineer · MLOps · Cybersecurity · Full-Stack
+      AI Engineer &middot; MLOps &middot; Cybersecurity &middot; Full-Stack
     </text>
 
     <!-- Tagline -->
@@ -189,7 +189,7 @@
       <rect x="0" y="0" width="300" height="75" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" opacity="0.9"/>
       <circle cx="20" cy="20" r="10" fill="url(#waveGradient)" opacity="0.9" filter="url(#glow)"/>
       <text x="40" y="20" font-family="system-ui" font-size="12" font-weight="700" fill="#e6edf3">OutreachFlow AI</text>
-      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">Voice AI · Twilio · Retell AI · n8n</text>
+      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">Voice AI &middot; Twilio &middot; Retell AI &middot; n8n</text>
       <text x="40" y="58" font-family="system-ui" font-size="10" font-weight="600" fill="#3fb950">▶ Live Demo in Repo</text>
       <!-- Mini waveform -->
       <g transform="translate(180, 30)" filter="url(#glow)">
@@ -208,7 +208,7 @@
       <rect x="0" y="0" width="300" height="75" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" opacity="0.9"/>
       <circle cx="20" cy="20" r="10" fill="url(#nodeGradient)" opacity="0.9" filter="url(#glow)"/>
       <text x="40" y="20" font-family="system-ui" font-size="12" font-weight="700" fill="#e6edf3">Hermes Swarm</text>
-      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">Multi-Agent · FastAPI · React · OpenRouter</text>
+      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">Multi-Agent &middot; FastAPI &middot; React &middot; OpenRouter</text>
       <text x="40" y="58" font-family="system-ui" font-size="10" font-weight="600" fill="#a371f0">▶ Live Demo in Repo</text>
       <!-- Mini nodes -->
       <g transform="translate(180, 30)">
@@ -231,7 +231,7 @@
       <rect x="0" y="0" width="300" height="75" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" opacity="0.9"/>
       <circle cx="20" cy="20" r="10" fill="#a371f0" opacity="0.9" filter="url(#glow)"/>
       <text x="40" y="20" font-family="system-ui" font-size="12" font-weight="700" fill="#e6edf3">LangGraph RAG</text>
-      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">RAG · deepEval · n8n · pgvector</text>
+      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">RAG &middot; deepEval &middot; n8n &middot; pgvector</text>
       <text x="40" y="58" font-family="system-ui" font-size="10" font-weight="600" fill="#a371f0">▶ Live Demo in Repo</text>
       <!-- Mini doc chunks -->
       <g transform="translate(180, 25)">
@@ -249,7 +249,7 @@
       <rect x="0" y="0" width="300" height="75" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" opacity="0.9"/>
       <circle cx="20" cy="20" r="10" fill="#f0883e" opacity="0.9" filter="url(#glow)"/>
       <text x="40" y="20" font-family="system-ui" font-size="12" font-weight="700" fill="#e6edf3">Gesture Mouse</text>
-      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">MediaPipe · OpenCV · 96.5% · 0.18s</text>
+      <text x="40" y="40" font-family="system-ui" font-size="10" fill="#8b949e">MediaPipe &middot; OpenCV &middot; 96.5% &middot; 0.18s</text>
       <text x="40" y="58" font-family="system-ui" font-size="10" font-weight="600" fill="#f0883e">▶ Live Demo in Repo</text>
       <!-- Mini hand landmarks -->
       <g transform="translate(190, 20)" stroke="#f0883e" stroke-width="1.5" opacity="0.7">
