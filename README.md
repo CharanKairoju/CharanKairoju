@@ -36,15 +36,6 @@ I’m **Charan Kairoju** — a Data Science student at Anurag University on a mi
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Programming Setup" width="500"/>
 </p>
 
-### 💼 Career Snapshot
-
-- **Current Role:** 🤖 **AI Engineer Intern** @ Kodryx AI (Aug 2025 – Present)
-- **Key Experience:**
-  - 🚀 Software Development Intern @ Revino (Jul 2025 – Aug 2025)
-  - 💻 Cybersecurity Intern @ Redynox (Jun 2025 – Jul 2025)
-  - ⚙️ DevOps Intern @ Vaidsys Technologies (May 2025 – Jun 2025)
-  - 💡 Agri-Tech Developer @ Swecha Telangana (2023)
-
 ---
 
 ## 👨‍💻 Tech Stack
